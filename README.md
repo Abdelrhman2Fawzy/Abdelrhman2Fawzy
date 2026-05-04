@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Abdelrahman Fawzy , Graduated Computer Engineering<br>🔭 I’m currently working on:<br>Building AI-powered systems (RAG, LLM workflows, automation pipelines)<br>End-to-end ML pipelines from data → deployment (FastAPI, PyTorch, Scikit-learn)<br>Real-world applications like sales forecasting and intelligent tutoring systems<br>👯 I’m looking to collaborate on:<br>Machine Learning / Deep Learning projects (especially NLP & LLMs)<br>Kaggle competitions & real-world data challenges<br>Open-source AI tools (RAG systems, MLOps, AI products)
+👋 Hi, I am Abdelrahman Fawzy , Graduated Computer Engineer<br>🔭 I’m currently working on:<br>Building AI-powered systems (RAG, LLM workflows, automation pipelines)<br>End-to-end ML pipelines from data → deployment (FastAPI, PyTorch, Scikit-learn)<br>Real-world applications like sales forecasting and intelligent tutoring systems<br>👯 I’m looking to collaborate on:<br>Machine Learning / Deep Learning projects (especially NLP & LLMs)<br>Kaggle competitions & real-world data challenges<br>Open-source AI tools (RAG systems, MLOps, AI products)
 
 
 ## 🌐 Socials:
